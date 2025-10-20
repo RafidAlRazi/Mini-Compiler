@@ -1,0 +1,11 @@
+MOV a, 5
+MOV R1, a
+ADD R1, 1
+MOV a, R1
+MOV R2, a
+SUB R2, 1
+MOV a, R2
+MOV a, 0
+MOV R3, b
+MUL R3, 2
+MOV b, R3 0

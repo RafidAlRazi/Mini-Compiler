@@ -1,0 +1,17 @@
+int main() {
+    int a;
+    float b = 10.5;
+    a = 5;
+   
+    if (a < 10) {
+        a = a + 1;
+    } else {
+        a = a - 1;
+    }
+   
+    for (a = 0; a < 3; a++) {
+        b = b * 2.0;
+    }
+   
+    return 0;
+}
